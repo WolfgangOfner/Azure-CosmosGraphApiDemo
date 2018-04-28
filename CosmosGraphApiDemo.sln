@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosGraphApiDemo", "CosmosGraphApiDemo\CosmosGraphApiDemo.csproj", "{9CB3BC5D-C75E-4CF9-9642-83AF882FAEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB3BC5D-C75E-4CF9-9642-83AF882FAEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB3BC5D-C75E-4CF9-9642-83AF882FAEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB3BC5D-C75E-4CF9-9642-83AF882FAEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB3BC5D-C75E-4CF9-9642-83AF882FAEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00155E7-BEAE-4D83-A6B0-992BEAD5FCB9}
+	EndGlobalSection
+EndGlobal
